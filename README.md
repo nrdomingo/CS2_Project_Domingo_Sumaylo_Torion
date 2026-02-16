@@ -10,6 +10,20 @@ Saving Helper is a simple Python budgeting program that helps students calculate
 -Enter name, grade level, dormer or city scholar and  monthly allowance
 -Calculate if the user has gone over the budget or not and how much leftover money they have left
 
+## Added Features
+Modular function structure
+Input validation using try-except
+Budget report formatting
+Loop system for multiple students
+
+## Improved Features
+Clear output structure
+Better function naming
+Improved readability
+## Removed Features
+Negative-only output display (replaced with clearer budget message)
+
+
 ## How to Run the Program
 1. Make sure you have Python installed.
 2. Download the file 'Saver_Helper.py`.
