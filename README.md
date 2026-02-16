@@ -17,15 +17,26 @@ This is a simple Phyton program that helps calculate and display how we should s
 5. Follow the instructions on-screen
 
 ## Example Output
+
+Enter name: Nica
+
 Enter name: Nica
 Enter grade level: Grade 8
-Enter dormer or cityscholar: dormer 
-Enter allowance per month: ₱5000
-Enter expenses per month : ₱3500
-You have ₱1500 left of your allowance
+Enter dormer or city scholar: Dormer
+Enter monthly allowance (₱): ₱5000
+Enter monthly expenses (₱): ₱3500
+Enter your saving goal (₱): ₱1000
 
 
-## Contribution
-- Student 1: Torion (Coder)
-- Student 2: Sumaylo (Coder and README editor)
-- Student 3: Doming (Coder and changelog manager)
+Name         : Nica
+Grade Level  : Grade 8
+Status       : Dormer
+Allowance    : ₱5000.00
+Expenses     : ₱3500.00
+Remaining    : ₱1500.00
+Saving Goal  : Achieved! 🎉 (Goal was ₱1000.00)
+Do you want to calculate again? (yes/no): no
+
+Thank you for using Saving Helper!
+
+
