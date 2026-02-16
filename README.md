@@ -3,7 +3,8 @@ TORION, DOMINGO, SUMAYLO
 ## Project Title Saving Helper 
 
 ## Project Description
-This is a simple Phyton program that helps calculate and display how we should save our allowance.
+Project Description
+Saving Helper is a simple Python budgeting program that helps students calculate whether they are within their monthly allowance or over budget. The program allows users to enter personal details and financial information and provides a clear budgeting report.
 
 ## Features
 -Enter name, grade level, dormer or city scholar and  monthly allowance
