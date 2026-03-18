@@ -35,21 +35,31 @@ Negative-only output display (replaced with clearer budget message)
 
 Enter name: Nica
 
-Enter name: Nica
 Enter grade level: Grade 8
+
 Enter dormer or city scholar: Dormer
+
 Enter monthly allowance (₱): ₱5000
+
 Enter monthly expenses (₱): ₱3500
+
 Enter your saving goal (₱): ₱1000
 
 
 Name         : Nica
+
 Grade Level  : Grade 8
+
 Status       : Dormer
+
 Allowance    : ₱5000.00
+
 Expenses     : ₱3500.00
+
 Remaining    : ₱1500.00
+
 Saving Goal  : Achieved! 🎉 (Goal was ₱1000.00)
+
 Do you want to calculate again? (yes/no): no
 
 Thank you for using Saving Helper!
