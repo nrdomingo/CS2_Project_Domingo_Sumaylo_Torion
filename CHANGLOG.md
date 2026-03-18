@@ -3,6 +3,8 @@ TORION, DOMINGO, SUMAYLO
 # Changelog
 This file lists all the updates made to our Saving Helper code
 
+## Version 2.2.6 March - 18, 2026
+- Debugged the code where if the user does not enter if they are a dormer or city scholar an error will appear and will restart the code
 
 ## Version 2.2.5 Feb - 16, 2026
 - With the help of my team we were able to renew the program
